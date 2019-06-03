@@ -1,0 +1,68 @@
+html,body{
+  font-family: 'Tahoma';
+  color:#000;
+  font-size: 16px;
+}
+.main-ctn{
+  max-width: 1440px;
+  width:100%;
+  margin: 0 auto;
+  padding-top: 90px;
+}
+.form-bg{
+  background: #F5F5F5;
+  padding: 0 18px;
+  padding-bottom: 20px;
+}
+.icn-section{
+  align-items: baseline;
+  padding-top: 13px;
+}
+.icn-section img{
+  display: block;
+  margin: 0 auto;
+}
+.icn-section a{
+  color:#000
+}
+.form-ctn .col-form-label{
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 0px;
+  font-size: 16px;
+  line-height: 19px;
+}
+.form-ctn .form-control-plaintext{
+  border: 1px solid #A0A0A0;
+  border-radius: 3px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.form-ctn{
+  background:#fff;
+  padding:16px;
+  margin-top:75px;
+  border: 1px solid #E0E0E0;
+  border-radius: 5px;
+}
+.form-ctn .form-group{
+  margin-bottom: 10px;
+  align-items: flex-end;
+}
+.form-ctn h2{
+  font-size: 20px;
+  line-height: 24px;
+  color: #942D30;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.h100{
+  height:100%;
+}
+.add-btn{
+  color:#000 !important;
+}
+.add-btn img{
+  display: block;
+  margin: 0 auto;
+}
