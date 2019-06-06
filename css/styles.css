@@ -8,6 +8,7 @@ html,body{
   width:100%;
   margin: 0 auto;
   padding-top: 90px;
+  min-width: 1300px;
 }
 .form-bg{
   background: #F5F5F5;
@@ -57,7 +58,7 @@ html,body{
   margin-bottom: 10px;
 }
 .h100{
-  height:100%;
+  min-height: 733px;
 }
 .add-btn{
   color:#000 !important;
@@ -80,4 +81,13 @@ form.popup-form.form-ctn{
 }
 .pop-btns .form-control{
   border: 2px solid rgba(148, 45, 48, 0.5);
+}
+.form-control-plaintext{
+  padding-left:5px;
+}
+.w-100{
+  min-width: 490px
+}
+.nowrap{
+  flex-wrap: nowrap;
 }
